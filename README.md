@@ -12,6 +12,7 @@ Topics stack: Stacks, Queues, Lists, Hashes, Trees, LinkedLists, Binary Trees an
 
 Example 
 
-Input: [0,1,0,3,12]
-Expected output: [1,3,12,0,0]
+- Input: [0,1,0,3,12]
+
+- Expected output: [1,3,12,0,0]
 
