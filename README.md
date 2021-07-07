@@ -8,4 +8,10 @@ Topics stack: Stacks, Queues, Lists, Hashes, Trees, LinkedLists, Binary Trees an
 
 # Problems list
 
-# 1.
+# 1. Given an array of integers, write a function to move all 0's to the end while maintaining the relative order of the other elements
+
+Example 
+
+Input: [0,1,0,3,12]
+Expected output: [1,3,12,0,0]
+
