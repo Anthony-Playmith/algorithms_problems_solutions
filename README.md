@@ -4,7 +4,7 @@ This repo contains data structures problems which I have been resolving over the
 
 These algorithm problems have been gotten from different sources such as Udemy, Pluralsight, Books, Google, Leetcode and HackerRank. Anothers have been just created by my imagination.
 
-Topics stack: Stacks, Queues, Lists, Hashes, Trees and more.
+Topics stack: Stacks, Queues, Lists, Hashes, Trees, LinkedLists, Binary Trees and more.
 
 # Problems list
 
