@@ -6,7 +6,7 @@ These algorithm problems have been gotten from different sources such as Udemy, 
 
 Topics stack: Stacks, Queues, Lists, Hashes, Trees, LinkedLists, Binary Trees and more.
 
-# Problems list
+# Problems resolved - List
 
 # 1. Given an array of integers, write a function to move all 0's to the end while maintaining the relative order of the other elements
 
